@@ -1,0 +1,4 @@
+﻿  Main.c
+G:\Xamarin\C&C++\Test2\Test2\Main.c(33,20): warning C4013: 'sum' undefined; assuming extern returning int
+G:\Xamarin\C&C++\Test2\Test2\Main.c(12,9): warning C4101: 'dst': unreferenced local variable
+  Test2.vcxproj -> G:\Xamarin\C&C++\Test2\Debug\Test2.exe
